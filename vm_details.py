@@ -1,7 +1,6 @@
 import requests
 import urllib3
 import csv
-
 from vmware.vapi.vsphere.client import create_vsphere_client
 session = requests.session()
 
